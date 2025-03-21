@@ -109,3 +109,6 @@ nav ul li a:hover {
     transform: scale(1.1);
 }
 
+body {
+    background-color: antiquewhite ;
+}
