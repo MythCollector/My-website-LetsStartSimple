@@ -111,4 +111,16 @@ nav ul li a:hover {
 
 body {
     background-color: antiquewhite ;
+
+}
+h1 {
+    font-family: "Brush Script MT", cursive;
+    font-size: 20px;
+    text-align: center; /* Fixes centering issue */
+}
+
+p {
+    font-family: "Brush Script MT", cursive;
+    font-size: 15px;
+    text-align: center; /* Fixes centering issue */
 }
