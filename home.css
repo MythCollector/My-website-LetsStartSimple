@@ -45,16 +45,17 @@ nav ul li a:hover {
 }
 
 /* Push content down so it’s not hidden under the navbar */
-#content {
+/*#content {
     padding-top: 80px; /* Adjust based on navbar height */
-}
+/*}
 
 /* Style the banner section */
 #banner {
+     padding-top: 80px;
     position: relative;
     width: 100%;
     height: 300px;  /* Adjust based on how tall you want it */
-    background-image: url('background.jpg');  /* Your image file */
+    background-image: url('fyJIkeBlwNlICfN6WX8J--0--heach.jpg');  /* Your image file */
     background-size: cover;  /* Ensures it covers the div fully */
     background-position: center;  /* Centers the image */
     display: flex;
