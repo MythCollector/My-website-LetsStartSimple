@@ -52,6 +52,7 @@ nav ul li a:hover {
 /* Style the banner section */
 #banner {
      padding-top: 100px;
+    marigin-top:100px;
     position: relative;
     width: 100%;
     height: 300px;  /* Adjust based on how tall you want it */
